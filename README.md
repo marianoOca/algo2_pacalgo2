@@ -14,7 +14,7 @@ The goal of this assignment was to:
 - Ensure each module meets complexity requirements
 - Respect the given module interfaces, adapting them to the course's test framework
 - Organize the project using a modular structure with `.cpp`, `.h`, and `.hpp` files
-- Optionally integrate a graphical user interface (GUI)
+- Integrate a graphical user interface (GUI)
 
 ---
 
